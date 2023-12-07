@@ -1,11 +1,17 @@
-## Note
-This package is in beta phase documentation coming soon
-
 ## What extra it have?
-It have better going to next, going to back, replacing new text field value without clearing feature.
-Your user will love it if you implement it, because of user experience it provide while typing the textfield.
+It have better:
+* Going to next.
+* Going to back.
+* Replacing new text field value without clearing.
+* And so on
+* Easily paste OTP into the text field
+Your user will love it if you implement it, because of user experience it provide while typing OTP.
 
 ## Credit
-This package is made by modifying this package (Original Package)[https://pub.dev/packages/otp_text_field].
+This package is made by modifying this package [Original Package](https://pub.dev/packages/otp_text_field).
 
-Till this package documentation don't come, view original package documentation
+View original package documentation for more reference.
+
+## Note
+The package is still on development phase, so other more features which increases UX comming soon.
+After that I will update the documentation too.
