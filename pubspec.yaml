@@ -1,7 +1,7 @@
 name: otp_field_bya2
 description: An modified otp text field which provide user even better user experience while entering the OTP.
-repository: https://github.com/AradhyaNepal/generic_state_bya2
-issue_tracker: https://github.com/AradhyaNepal/generic_state_bya2/issues
+repository: https://github.com/AradhyaNepal/otp_field_bya2
+issue_tracker: https://github.com/AradhyaNepal/otp_field_bya2/issues
 version: 0.0.1
 
 environment:
