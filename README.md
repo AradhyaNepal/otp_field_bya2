@@ -5,6 +5,7 @@ It have better:
 * Replacing new text field value without clearing.
 * And so on
 * Easily paste OTP into the text field
+* 
 Your user will love it if you implement it, because of user experience it provide while typing OTP.
 
 ## Credit
