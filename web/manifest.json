@@ -1,6 +1,6 @@
 {
-    "name": "otp_field_bya2_v2",
-    "short_name": "otp_field_bya2_v2",
+    "name": "otp_field_bya2",
+    "short_name": "otp_field_bya2",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

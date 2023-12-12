@@ -1,4 +1,4 @@
-package com.example.otp_field_bya2_v2
+package com.a2.otp_field_bya2
 
 import io.flutter.embedding.android.FlutterActivity
 

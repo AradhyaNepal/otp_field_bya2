@@ -23,7 +23,7 @@ if (flutterVersionName == null) {
 }
 
 android {
-    namespace "com.example.otp_field_bya2_v2"
+    namespace "com.a2.otp_field_bya2"
     compileSdkVersion flutter.compileSdkVersion
     ndkVersion flutter.ndkVersion
 
